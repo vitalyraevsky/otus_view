@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomViewChild">
+        <attr name="customBarColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="CustomViewChild_Layout">
+        <attr name="layout_attachToTop" format="boolean" />
+    </declare-styleable>
+</resources>

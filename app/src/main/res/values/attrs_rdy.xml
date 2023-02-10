@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomViewChild123_Layout">
+        <attr name="layout_stickToTop1" format="boolean"/>
+        <attr name="android:layout_gravity"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomViewChild123">
+        <attr name="barColor" format="color"/>
+    </declare-styleable>
+</resources>
